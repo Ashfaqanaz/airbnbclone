@@ -1,0 +1,13 @@
+.categoryItem {
+    display: flex;
+    flex-direction: column-reverse;
+    flex-basis: 30%;
+    align-items: center;
+}
+
+.border {
+    display: flex;
+    flex-basis: 30%;
+    border: 10px solid goldenrod;
+    min-height: 30%;
+}
